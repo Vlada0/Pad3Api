@@ -36,7 +36,7 @@ namespace PADLab2_1part
             {
                // var settings = new MongoClientSettings { Server = new MongoServerAddress("localhost", 50003), ConnectionMode = ConnectionMode.Direct };
                // return new MongoClient(settings);
-               //
+               
 
                 var uri = s.GetRequiredService<IConfiguration>()["MongoUri"];
                 return new MongoClient(uri);
