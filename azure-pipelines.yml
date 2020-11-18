@@ -17,21 +17,6 @@ variables:
 steps:
 - task: NuGetToolInstaller@1
 
-- task: DotNetCoreCLI@2
-  inputs:
-  command: test
-  projects: '**/TestApi/*.csproj'
-  arguments: '--configuration $(buildConfiguration)'
-
-- task: DotNetCoreCLI@2
-  displayName: 'dotnet publish --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
-  inputs:
-  command: publish
-  publishWebProjects: false
-  projects: 'PADlaborator2/PADLab2_1part/PADLab2_1part.csproj'
-  arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
-  zipAfterPublish: true
-
 - task: NuGetCommand@2
   inputs:
     restoreSolution: '$(solution)'
@@ -47,4 +32,5 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
 
