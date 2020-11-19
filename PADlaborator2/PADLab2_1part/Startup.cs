@@ -68,7 +68,7 @@ namespace PADLab2_1part
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseMiddleware<IPFilterMiddleware>();
+           // app.UseMiddleware<IPFilterMiddleware>();
             //app.ConfigureExceptionHandler();
 
             // Hook in the global error-handling middleware
