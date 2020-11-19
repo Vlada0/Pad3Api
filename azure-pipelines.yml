@@ -31,7 +31,7 @@ steps:
 - task: VSTest@2
   inputs:
     platform: '$(buildPlatform)'
-    searchFolder: '**/*Test/'
+    searchFolder: '**/*TestApi/'
     configuration: '$(buildConfiguration)'
     
 - task: PublishBuildArtifacts@1
