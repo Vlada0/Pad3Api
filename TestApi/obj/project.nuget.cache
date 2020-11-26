@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/l3eBRUh7ZHtWQQ0D5o24mBXwvsBTKWV7hTJHRdt1argSlCoBLcEeqjRmrDj81vt9Bwe3xP7vPyVi1nPjYL3nA==",
+  "dgSpecHash": "TJcDPmsmh8r5af+SuOFKY5sthuM4K7h/GBhTGDjBge6dpyh4Nul6GtDFndh6SW7UUjMZQ5HBhj1ENrilP0l1lw==",
   "success": true,
-  "projectFilePath": "D:\\Project\\API1\\PADlaborator2\\TestApi\\TestApi.csproj",
+  "projectFilePath": "D:\\Project\\API1\\TestApi\\TestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vlada\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Vlada\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",

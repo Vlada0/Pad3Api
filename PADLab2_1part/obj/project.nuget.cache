@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1DZxMEW+eVD2H938shkusjIFU2MuiMvmrp8XwheiNoOvtP2NG8SfoPbzWaRZgKxkY6p16YZ4cYg9i6AVK45alQ==",
+  "dgSpecHash": "T2zSbMiuCxw7+BMqriiANQD2JuMybyfO4MmRaxRuqKDWeoaFxqVEPN+TBs8KmDhZhOshUZ6tvqj1BvGm8F1Eng==",
   "success": true,
-  "projectFilePath": "D:\\Project\\API1\\PADlaborator2\\PADLab2_1part\\PADLab2_1part.csproj",
+  "projectFilePath": "D:\\Project\\API1\\PADLab2_1part\\PADLab2_1part.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vlada\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\Vlada\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",

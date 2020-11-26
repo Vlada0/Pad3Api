@@ -5912,11 +5912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\API1\\PADlaborator2\\TestApi\\TestApi.csproj",
+      "projectUniqueName": "D:\\Project\\API1\\TestApi\\TestApi.csproj",
       "projectName": "TestApi",
-      "projectPath": "D:\\Project\\API1\\PADlaborator2\\TestApi\\TestApi.csproj",
+      "projectPath": "D:\\Project\\API1\\TestApi\\TestApi.csproj",
       "packagesPath": "C:\\Users\\Vlada\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\API1\\PADlaborator2\\TestApi\\obj\\",
+      "outputPath": "D:\\Project\\API1\\TestApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vlada\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5932,8 +5932,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Project\\API1\\PADlaborator2\\PADLab2_1part\\PADLab2_1part.csproj": {
-              "projectPath": "D:\\Project\\API1\\PADlaborator2\\PADLab2_1part\\PADLab2_1part.csproj"
+            "D:\\Project\\API1\\PADLab2_1part\\PADLab2_1part.csproj": {
+              "projectPath": "D:\\Project\\API1\\PADLab2_1part\\PADLab2_1part.csproj"
             }
           }
         }

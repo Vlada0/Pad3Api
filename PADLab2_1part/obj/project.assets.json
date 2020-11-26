@@ -5064,11 +5064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\API1\\PADlaborator2\\PADLab2_1part\\PADLab2_1part.csproj",
+      "projectUniqueName": "D:\\Project\\API1\\PADLab2_1part\\PADLab2_1part.csproj",
       "projectName": "PADLab2_1part",
-      "projectPath": "D:\\Project\\API1\\PADlaborator2\\PADLab2_1part\\PADLab2_1part.csproj",
+      "projectPath": "D:\\Project\\API1\\PADLab2_1part\\PADLab2_1part.csproj",
       "packagesPath": "C:\\Users\\Vlada\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\API1\\PADlaborator2\\PADLab2_1part\\obj\\",
+      "outputPath": "D:\\Project\\API1\\PADLab2_1part\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vlada\\AppData\\Roaming\\NuGet\\NuGet.Config",
