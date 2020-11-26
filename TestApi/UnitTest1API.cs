@@ -6,7 +6,6 @@ using PADLab2_1part.Data;
 using System.Threading.Tasks;
 using System.Web.Http.Results;
 using System.Net;
-using Microsoft.AspNetCore.Mvc;
 
 namespace TestApi
 {
@@ -26,9 +25,10 @@ namespace TestApi
         {
             IPictureService pictureService = new MockPictureService();
             PictureController pictureController = new PictureController(pictureService);
-            var id = Guid.NewGuid();
+            var id = new Guid("1ba6b939-2a1a-4d6d-b65a-33f699a82bdb");
             var response = await pictureController.GetPicture(id);
-            Assert.IsAssignableFrom<NotFoundObjectResult>(response.Result);
+
+            Assert.NotNull(response);
 
         }
     }
